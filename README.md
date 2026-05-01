@@ -3,7 +3,7 @@
 **💡 This is the official implementation of the paper "Mixed Multi-relational Representation Learning for Low-Dimensional Knowledge Graph Embedding (ACIIDS 2022)"**
 
 ## 🚀 Experiment
-### 🌞 To train and test the model, run the following script"
+To train and test the model for WN18RR and FB15k-237 datasets, run the following script:
 ```shell
 bash scripts/train.sh
 ```
